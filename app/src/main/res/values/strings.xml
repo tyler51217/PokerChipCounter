@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Poker Chip Counter</string>
+    <string name="welcome">Welcome!</string>
+    <string name="start">Begin</string>
+    <string name="howManyPlayers">How many players?</string>
+    <string name="startingWith">Starting with 2 players!</string>
+    <string name="startgame">Start Game</string>
+    <string name="blind">Blinds?</string>
+    <string name="ante">Ante?</string>
+    <string name="cont">Continue</string>
+    <string name="cash">Starting Cash:</string>
+    <string name="startHand">Start Hand</string>
+    <string name="next">Next Hand</string>
+    <string name="takePot">Take pot</string>
+    <string name="addMoney">Add Money</string>
+    <string name="nextPlayer">Next Player</string>
+    <string name="currentPlayer">Current Player:</string>
+    <string name="blindLabel">Big Blind Value:</string>
+
+    <string-array name="players_array">
+        <item>Two Players</item>
+        <item>Three Players</item>
+        <item>Four Players</item>
+    </string-array>
+
+</resources>
